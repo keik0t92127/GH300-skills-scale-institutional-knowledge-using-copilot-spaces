@@ -40,3 +40,7 @@ Incident Communication
 ## Escalation Paths
 - Team-level -> PM -> Product Lead -> Sponsor
 - For security incidents, follow the security incident runbook and notify Security on-call
+- For data/metrics issues (missing or incorrect KPI data), escalate to Data Analyst -> Product Manager -> Sponsor
+- For unresolved team impediments, Scrum Master escalates to Project Manager
+
+> For a full view of which roles own which risks and escalations across phases, see the [Role Engagement Checklist](templates/role-engagement-checklist.md).

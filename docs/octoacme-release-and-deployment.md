@@ -19,9 +19,13 @@ Standardize how OctoAcme releases features to production to reduce risk and impr
 - [ ] Deployment window scheduled (if needed)
 - [ ] Backup or snapshot (if applicable)
 - [ ] Deploy to staging and run smoke tests
+- [ ] Security Specialist pre-release review completed and approved
+- [ ] Data Analyst confirms dashboards and alerts are ready
 - [ ] Deploy to production (automated pipeline preferred)
 - [ ] Run post-deploy verifications
 - [ ] Announce release to stakeholders and support
+
+> See [Role Engagement Checklist — Phase 4](templates/role-engagement-checklist.md#phase-4--release) for the full release gate checklist.
 
 ## Rollback & Incident Playbook
 - If a deployment fails or causes a critical issue:

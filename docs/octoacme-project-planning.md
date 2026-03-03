@@ -39,5 +39,11 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - [ ] Project kickoff held
 - [ ] Backlog prioritized and estimated
 - [ ] Release timeline and milestones agreed
-- [ ] Definition of Done documented
+- [ ] Definition of Done documented (including UX and security criteria)
 - [ ] Initial test plan / QA approach drafted
+- [ ] Threat modeling session completed (Security Specialist)
+- [ ] KPI measurement plan approved (Data Analyst)
+- [ ] UX research and usability test schedule confirmed (UX Researcher)
+- [ ] Sprint calendar and team capacity confirmed (Scrum Master)
+
+> See [Role Engagement Checklist — Phase 2](templates/role-engagement-checklist.md#phase-2--planning) for the full planning gate checklist.
