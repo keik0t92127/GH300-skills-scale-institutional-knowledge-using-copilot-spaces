@@ -38,3 +38,9 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - [ ] CI configured for tests and lint
 - [ ] Regular demos scheduled
 - [ ] Risk register updated weekly
+- [ ] Scrum Master facilitating daily standups and tracking impediments
+- [ ] Security Specialist reviewing high-risk changes before merge
+- [ ] Data Analyst verifying instrumentation in staging environment
+- [ ] UX Researcher findings fed back into backlog each sprint
+
+> See [Role Engagement Checklist — Phase 3](templates/role-engagement-checklist.md#phase-3--execution) for the full execution gate checklist.

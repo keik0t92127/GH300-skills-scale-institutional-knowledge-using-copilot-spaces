@@ -35,6 +35,11 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - [ ] Decision: Approve to move into planning?
 - [ ] Create repo or project board skeleton
 - [ ] Add initial artifacts to repo (docs/ or .copilot/)
+- [ ] UX Researcher briefed on target users and research constraints
+- [ ] Security Specialist consulted on data classification and compliance scope
+- [ ] Data Analyst aligned on KPI measurement approach
+
+> See [Role Engagement Checklist — Phase 1](templates/role-engagement-checklist.md#phase-1--initiation) for the full initiation gate checklist.
 
 ## Decision Gate
 Move to planning when:
